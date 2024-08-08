@@ -4,13 +4,13 @@ En este repositorio van a encontrar un tutorial que explora tres métodos difere
 
 ## Contenido
 
-Método 1: Usar códigos Unicode
+- Método 1: Usar códigos Unicode
 Aprendemos a utilizar emojis a través de códigos Unicode directamente en los scripts de Python.
 
-Método 2: Usar módulo emoji
+- Método 2: Usar módulo emoji
 Descubrimos cómo la popular librería emoji puede simplificar su uso, permitiéndonos agregar expresividad con nombres cortos.
 
-Método 3: Usar emojis desde el panel de Windows
+- Método 3: Usar emojis desde el panel de Windows
 Exploramos como Window te permite trabajar con emojis.
 
 ## Fuentes
